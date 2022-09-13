@@ -1,4 +1,4 @@
-// import { ArrayExtensions, EventsSDK, LocalPlayer, Menu, TickSleeper, Unit } from "github.com/octarine-public/wrapper/wrapper/Imports"
+// import { ArrayExtensions, EventsSDK, LocalPlayer, Menu, TickSleeper, Unit } from "github.com/octarine-public/wrapper/index"
 
 // const entry = Menu.AddEntry("Utility")
 // const menu = entry.AddNode("Mine Destroyer", "panorama/images/spellicons/techies_land_mines_png.vtex_c", undefined, 0)
